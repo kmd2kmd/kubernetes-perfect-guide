@@ -7,9 +7,7 @@
 
 ## Cloud Shellを起動
 
-GCPにログインして上部メニュー右側のCloud Shellのアイコンをクリックします｡
-
-![tutorial-deploy-gke-2019-01-30-22-19-23](img/tutorial-deploy-gke-2019-01-30-22-19-23.png)
+GCPにログインして上部メニュー右側のShellのアイコンをクリックします｡
 
 ## チュートリアルの読み込み
 
@@ -23,9 +21,7 @@ cloudshell launch-tutorial -d tutorial-deploy-gke.md
 
 ## コードエディタの起動
 
-Cloud Shellの灰色のメニューバーのコードエディタのアイコンをクリックします｡
-
-![tutorial-deploy-gke-2019-01-30-22-30-43](img/tutorial-deploy-gke-2019-01-30-22-30-43.png)
+Cloud Shellの灰色のメニューバーの鉛筆のアイコンをクリックします｡
 
 新しいタブでコードエディタとCloud Shellが起動します｡
 Cloud Shellが新しいタブで開いているので､×ボタンを押して閉じてください｡
