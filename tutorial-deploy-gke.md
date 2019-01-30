@@ -44,7 +44,7 @@ gcloud config set project $PROJECT_ID
 
 ## 必要なAPIの有効化
 
-必要になるAPIを有効化します。
+必要になるAPIを有効化します。この処理には約5分かかります｡
 
 ```bash
 gcloud services enable \
